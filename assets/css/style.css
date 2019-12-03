@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTImO_PO8RAm439I6_5bOJLuG0nfzzurPpEFIQ1pGec9JG6Aa7j&s);
+	text-align: center;
+}
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
